@@ -1,0 +1,5 @@
+<library path="lib/libInvPendulumPID">
+  <class name="inv_pendulum_pid/InvPendulumPID" type="inv_pendulum_pid::InvPendulumPID" base_class_type="nodelet::Nodelet">
+  <description>Balances an inverted pendulum based on odometry input to a PID</description>
+  </class>
+</library>
